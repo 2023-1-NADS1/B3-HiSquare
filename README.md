@@ -13,10 +13,11 @@
 ## Professores Orientadores: Victor Bruno, Adriano Felix, Ronaldo Araújo, Eduardo Savino
 
 ## Descrição
-![](GitHub\B3-HiSquare\imagens)
+
+![hisquare](https://github.com/2023-1-NADS1/B3-HiSquare/assets/62772101/cc3f33ea-3164-4100-b060-489cf73b26ce)
+
 <p align="center">
-<img src="GitHub\B3-HiSquare\imagens
-" alt="HISQUARE" border="0">
+<img src="[GitHub\B3-HiSquare\imagens](https://github.com/2023-1-NADS1/B3-HiSquare/assets/62772101/cc3f33ea-3164-4100-b060-489cf73b26ce)" alt="HISQUARE" border="0">
 </p>
 
 
