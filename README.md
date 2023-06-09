@@ -8,16 +8,16 @@
 
 ## HiSquare
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anna julia galchenko</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Fraga A. Santos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Berto Horacio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Sampaio Duarte</a>, <a href="https://www.linkedin.com/in/victorbarq/">Nayan Pinho de Oliveira</a>
+## Integrantes: <a href="https://www.linkedin.com/in/anna-julia-borges-1843b7171">Anna julia galchenko</a>, <a href="https://www.linkedin.com/in/eduardo-fraga-santos/">Eduardo Fraga A. Santos</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141">Gabriel Berto Horacio</a>, <a href="https://www.linkedin.com/in/matheus-sampaio-duarte-95a7aa278">Matheus Sampaio Duarte</a>, <a href="https://www.linkedin.com/in/nayan-pinho-rh-dp/">Nayan Pinho de Oliveira</a>
 
-## Professores Orientadores: Victor Bruno, Adriano Felix, Ronaldo Araújo, Eduardo Savino
+## Professores Orientadores: Victor Bruno Rosetti, Adriano Felix Valente, Ronaldo Araújo Pinto, Eduardo Savino Gomes
 
 ## Descrição
 
-![hisquare](https://github.com/2023-1-NADS1/B3-HiSquare/assets/62772101/cc3f33ea-3164-4100-b060-489cf73b26ce)
+![hisquare](https://github.com/2023-1-NADS1/B3-HiSquare/assets/62772101/f91ff8ef-5f47-489e-b61b-3dd672a65ad8)
 
 <p align="center">
-<img src="[GitHub\B3-HiSquare\imagens](https://github.com/2023-1-NADS1/B3-HiSquare/assets/62772101/cc3f33ea-3164-4100-b060-489cf73b26ce)" alt="HISQUARE" border="0">
+<img src="(https://github.com/2023-1-NADS1/B3-HiSquare/assets/62772101/f91ff8ef-5f47-489e-b61b-3dd672a65ad8)" alt="HISQUARE" border="0">
 </p>
 
 
@@ -25,6 +25,10 @@ O objetivo do projeto hiSquare é utilizar sensores em praças públicas para ra
 compartilhar com pequenos empresários e/ou orgãos governamentais que tenham a intenção de planejar fazer algo naquele determinado espaço, sejam eles, eventos, barracas
 de alimentação, festas, etc.
 <br><br>
+Será usado os seguintes sensores:
+<br>
+- `Sensor de presença pir `: Será usado para ver se alguma pessoas passou pela sensor;
+- `Sensor de obstáculo infravermelho `: Será usado para evitar que o primeiro sensor conte a mesma pessoas varias vezes;
 
 
 ## 🛠 Estrutura de pastas
