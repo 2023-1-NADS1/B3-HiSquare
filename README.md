@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anna julia galchenko</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Fraga A. Santos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Berto Horacio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Sampaio Duarte</a>, <a href="https://www.linkedin.com/in/victorbarq/">Nayan Pinho de Oliveira</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>, <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ronaldo Araújo, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino</a>
+## Professores Orientadores: Victor Bruno, Adriano Felix, Ronaldo Araújo, Eduardo Savino
 
 ## Descrição
 ![](GitHub\B3-HiSquare\imagens)
