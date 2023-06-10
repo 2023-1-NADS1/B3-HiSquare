@@ -37,13 +37,13 @@ Será usado os seguintes sensores:
 |<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|HISQUARE.pdf<br>
 |-->executáveis<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-  &emsp;|wificSens.ino<br>
+  &emsp;|hisquare.ino<br>
 |README.md<br>
 
 ## 🛠 Instalação
